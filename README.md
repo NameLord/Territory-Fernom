@@ -1,2 +1,3 @@
 # Territory-Fernom
-Territory Moba but ressurected as Territory Fernom Better Quality Better Gameplay Same champs same items but BETTER.
+- Discord Server: https://discord.gg/yh6VjUm9TG
+- More info on Wiki: https://github.com/NameLord/Territory-Fernom/wiki
